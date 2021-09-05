@@ -4,14 +4,14 @@
       "id": 1,
       "title": "Post 1",
       "description": "this is description 1",
-      "image-url":"https://i.imgur.com/pwpWaWu.jpg"
+      "image":"https://i.imgur.com/pwpWaWu.jpg"
 
     },
     {
       "id": 2,
       "title": "Post 2",
       "description": "this is description 2"
-      "image-url": "https://i.imgur.com/KIPtISY.jpg"
+      "image": "https://i.imgur.com/KIPtISY.jpg"
     },
     {
       "id": 3,
