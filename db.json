@@ -1,13 +1,26 @@
 {
   "posts": [
     {
+      
       "id": 1,
-      "name": "hai",
-      "email": "this@gmail.com",
-      "mobile":"12345"
-
+      "image": "https://res.cloudinary.com/db947bmuz/image/upload/v1619512585/USTHAD/19059541_1369644176457001_3978221880253259937_n_laard2.jpg"
+    },
+      
+    {
+      "id": 2,
+      "image": "https://res.cloudinary.com/db947bmuz/image/upload/v1619512219/USTHAD/47257328_1071001303081068_5896914415789277184_n_bmclqb.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://res.cloudinary.com/db947bmuz/image/upload/v1619512219/USTHAD/47257328_1071001303081068_5896914415789277184_n_bmclqb.jpg"
     }
-    
+
+
+
+
+ 
+
+
   ],
   "comments": [
     {
